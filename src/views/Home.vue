@@ -2,7 +2,7 @@
     <section class="text-gray-400 bg-gray-900 body-font">
         <div class="mx-auto flex py-4 items-center justify-center flex-col">
             <img alt="hero" class="lg:w-3/3 md:w-3/3 w-3/3 mb-10 object-cover object-center rounded"
-                 src="images/bg.jpg">
+                 src="/images/bg.jpg">
             <div class="text-center lg:w-2/3 w-full">
                 <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Cinematographer, Visual
                     Designer, Creator</h1>
