@@ -5,7 +5,7 @@
                  src="/images/bg.jpg">
 
             <button
-                class="absolute flex mx-auto text-white bg-gray-900 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                class="absolute flex mx-auto text-white border-0 py-2 px-8 focus:outline-none hover:bg-gray-900 rounded text-4xl">
                 Contact Us
             </button>
 
@@ -21,9 +21,9 @@
     </section>
 
     <footer class="text-gray-400 bg-gray-900 body-font">
-        <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+        <div class="container px-5 py-4 mx-auto flex items-center sm:flex-row flex-col">
             <a class="flex title-font font-medium items-center md:justify-start justify-center text-white">
-                <svg class="w-16 h-16 p-2" style="fill:#000000;" viewBox="0 0 128 128"
+                <svg class="w-16 h-16 p-3" style="fill:#000000;" viewBox="0 0 128 128"
                      x="0px"
                      xmlns="http://www.w3.org/2000/svg"
                      y="0px">

@@ -11,9 +11,9 @@ setInterval(() => {
 <template>
     <div>
         <header class="text-white bg-gray-900 body-font">
-            <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+            <div class="container mx-auto flex flex-wrap px-5 flex-col md:flex-row items-center">
                 <a class="flex title-font font-medium items-center mb-4 md:mb-0">
-                    <svg class="w-16 h-16 p-2" style="fill:#000000;" viewBox="0 0 128 128"
+                    <svg class="w-16 h-16 p-3" style="fill:#000000;" viewBox="0 0 128 128"
                          x="0px"
                          xmlns="http://www.w3.org/2000/svg"
                          y="0px">
