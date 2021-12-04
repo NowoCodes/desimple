@@ -5,7 +5,7 @@
                  src="/images/bg.jpg">
 
             <button
-                class="absolute flex mx-auto text-white border-0 py-2 px-8 focus:outline-none hover:bg-gray-900 rounded text-4xl">
+                class="absolute flex mx-auto text-white border-0 py-2 px-8 focus:outline-none hover:bg-gray-900 rounded text-xl">
                 Contact Us
             </button>
 
